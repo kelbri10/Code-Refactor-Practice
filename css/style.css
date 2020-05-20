@@ -25,9 +25,6 @@ nav li a{
     padding: 100px; 
     margin: 0 auto; 
     width: 720px; 
-    float: left; 
-    position: fixed; 
-    left: 225px; 
 }
 
 footer{ 
