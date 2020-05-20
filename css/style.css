@@ -1,8 +1,12 @@
 
+header h1{ 
+    text-align: center; 
+}
+
 nav ul{ 
     list-style: none; 
     padding: 20px; 
-    margin: 50px;
+    margin: 30px;
     font-size: 20px; 
     font-weight: bold; 
     overflow: hidden; 
@@ -20,11 +24,20 @@ nav li a{
     padding: 10px; 
 }
 
-.content{ 
-    background-color: lightgray; 
-    padding: 100px; 
+nav li a:hover{ 
+    background-color: lightgrey; 
+    color: black; 
+}
+
+.content{
     margin: 0 auto; 
     width: 720px; 
+}
+
+#blog-article{ 
+    background-color: lightgray; 
+    padding: 25px 50px; 
+    margin: 10px; 
 }
 
 footer{ 
